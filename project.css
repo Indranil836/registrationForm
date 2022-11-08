@@ -1,0 +1,81 @@
+* {
+    margin: 0px ;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ .container {
+    margin: 0 auto;
+    padding: 45px;
+    text-align: center;
+    color: chocolate;
+    font-size: 15px;
+    text-transform: capitalize;
+ }
+
+ h3 {
+    font-style: italic;
+ }
+
+
+ p {
+   text-shadow: 1px 1px gold;
+   color:yellowgreen;
+   font-size: 25px;
+   
+   
+
+    
+ }
+
+ form {
+    padding: 20px;
+
+    
+ }
+ textarea {
+    margin: 10px;
+    width: 50%;
+    padding: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    opacity: 0.8;
+ }
+ input {
+    height: 20px;
+    margin: 10px;
+    width: 50%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    opacity: 0.8;
+    
+ }
+
+ button {
+    margin: 10px;
+    border-radius: 5px;
+    background-color: blueviolet;
+    padding: 5px;
+    border: 1px solid blueviolet;
+    color: aliceblue;
+    font-size: 20px;
+ }
+
+ button:hover {
+    background-color: darkmagenta;
+ }
+ 
+ footer {
+    box-sizing: border-box;
+    text-align: center;
+    font-style:oblique;
+    color: black;
+    text-shadow: 2px 0px slateblue;
+    border: 1px solid yellowgreen;
+    background-color: yellow;
+    opacity: 0.6;
+    margin-top: 80px;
+    
+ }
+ 
